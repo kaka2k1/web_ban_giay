@@ -44,7 +44,7 @@
       }
 
       .carousel-item:nth-child(1) {
-        background-image: url('https://file.hstatic.net/1000376681/file/cap_nhat_buu_cuc_1200x720_1837d2077def46ac8b27206c1fdc9410.png');
+        background-image: url('https://phunugioi.com/wp-content/uploads/2021/11/hinh-anh-chill-lofi-tam-trang-buon-nhat-820x461.jpg');
         background-repeat: no-repeat;
         background-size: 100% 100%;
         background-position: center center;
@@ -52,14 +52,14 @@
     }
 
       .carousel-item:nth-child(2) {
-        background-image: url('https://file.hstatic.net/1000230642/file/web-top-banner_68b9a0c957374772bdf25d1d0f312b11_master.jpg');
+        background-image: url('https://yeuchaybo.com/wp-content/uploads/2014/09/adidas-logo.jpg');
         background-repeat: no-repeat;
         background-size: 100% 100%;
         background-position: center center;
       }
 
       .carousel-item:nth-child(3) {
-        background-image: url('https://file.hstatic.net/1000230642/file/banner_central_opt_2_76f1c057c7dc43ee9c8a36c6bee9ac4d_master.jpg');
+        background-image: url('http://tophinhanh4k.com/wp-content/uploads/2022/01/anh-dep-don-tim-1.jpg');
         background-repeat: no-repeat;
         background-size: 100% 100%;
         background-position: center center;
